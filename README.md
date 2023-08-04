@@ -1,2 +1,2 @@
 # TAIRP
-My internship repository for task submissions as Cloud Engineer. 
+As a Cloud Engineer participating in the Cloud Internship, I will diligently document and showcase my progress by maintaining a dedicated GitHub repository. This repository will serve as a centralized platform for submitting all internship tasks, allowing for seamless collaboration and version control. I am committed to consistently updating and organizing the repository to demonstrate my proficiency in cloud technologies and project management throughout the internship period.
